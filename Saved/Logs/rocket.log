@@ -5106,3 +5106,8 @@ Script call stack:
 [2021.01.31-14.36.09:435][480]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2021.01.31-14.36.09:438][480]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2021.01.31-14.36.11:391][480]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.31-14.36.14:724][480]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.36.14:736][480]LogExit: Editor shut down
+[2021.01.31-14.36.15:057][480]LogExit: Transaction tracking system shut down
+[2021.01.31-14.36.23:726][480]LogExit: Object subsystem successfully closed.
+[2021.01.31-14.36.24:899][480]LogShaderCompilers: Display: Shaders left to compile 0
