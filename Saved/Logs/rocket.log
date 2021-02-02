@@ -3022,3 +3022,636 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.02-13.04.11:327][376]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
 [2021.02.02-13.04.11:328][376]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
 [2021.02.02-13.04.12:527][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.02.02-13.22.55:046][536]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.02-13.22.56:052][536]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.02-13.27.32:719][262]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pickups/Rocket.Rocket
+[2021.02.02-13.28.31:064][ 51]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2021.02.02-13.28.35:544][ 52]LogRenderer: Reallocating scene render targets to support 1192x740 Format 10 NumSamples 1 (Frame:1).
+[2021.02.02-13.28.47:250][160]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.02.02-13.28.47:406][160]LogMaterial: Warning: [AssetLog] /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.02-13.28.47:414][160]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2021.02.02-13.28.47:487][161]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.28.47:487][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.29.00:718][260]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2021.02.02-13.29.00:809][260]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0229 seconds. Added 3 classes and 0 folders.
+[2021.02.02-13.29.00:873][260]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.02.02-13.29.01:591][260]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.02.02-13.29.01:637][260]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.02.02-13.29.01:637][260]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.02.02-13.29.01:637][260]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.02.02-13.29.01:642][260]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.02.02-13.29.11:561][349]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.02.02-13.29.11:561][349]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.02.02-13.29.11:598][350]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.02.02-13.29.14:044][377]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.02.02-13.29.15:134][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.02.02-13.29.16:296][400]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.02.02-13.29.17:818][416]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.29.17:818][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.29.17:985][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.02.02-13.29.18:362][422]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.02.02-13.30.17:855][952]BlueprintLog: New page: Compile Rocket
+[2021.02.02-13.30.18:893][952]LogUObjectHash: Compacting FUObjectHashTables data took  11.37ms
+[2021.02.02-13.30.19:682][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/Rocket" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/Rocket.uasset" SILENT=true
+[2021.02.02-13.30.19:734][959]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketC5DDC1F145390F213751A9AA333684B5.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/Rocket.uasset'
+[2021.02.02-13.30.19:761][959]AssetCheck: New page: Asset Save: Rocket
+[2021.02.02-13.30.19:761][959]LogContentValidation: Display: Validating Blueprint /Game/Pickups/Rocket.Rocket
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.RocketPickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.SKEL_RocketPickup_C' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.RocketPickup_C' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.RocketPickup:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.RocketPickup:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.RocketPickup:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.SKEL_RocketPickup_C:ReceiveBeginPlay' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.SKEL_RocketPickup_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.SKEL_RocketPickup_C:ReceiveTick' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.45:943][347]LogMetaData: Removing '/Game/Pickups/RocketPickup.SKEL_RocketPickup_C:UserConstructionScript' ref from Metadata '/Game/Pickups/Rocket.PackageMetaData'
+[2021.02.02-13.30.46:074][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.30.46:086][347]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickup96C5DD114AD6A4E97B6C85AC19C3F40A.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.30.46:631][347]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2021.02.02-13.30.46:707][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.02.02-13.30.46:767][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.02.02-13.30.47:668][347]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.30.47:668][347]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.32.26:607][960]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2021.02.02-13.32.26:611][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.093
+[2021.02.02-13.32.26:612][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pickups/RocketPickup] ([1] browsable assets)...
+[2021.02.02-13.32.26:660][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pickups/RocketPickup.RocketPickup]
+[2021.02.02-13.32.26:660][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pickups/RocketPickup]
+[2021.02.02-13.32.26:660][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Saved/Autosaves/Game/Pickups/RocketPickup_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.02.02-13.32.26:714][960]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickup_Auto8FC9648DA4F1B05998F6CC38676DE2ED1.tmp' to '../../../../../../_UE/rocket/rocket/Saved/Autosaves/Game/Pickups/RocketPickup_Auto8.uasset'
+[2021.02.02-13.32.26:715][960]LogFileHelpers: Auto-saving content packages took 0.104
+[2021.02.02-13.38.34:849][368]BlueprintLog: New page: Compile RocketPickup
+[2021.02.02-13.38.35:005][368]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2021.02.02-13.38.35:927][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.38.36:000][379]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickup8CF8B7A64A0253B99881CF97B3995F75.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.38.36:022][379]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.38.36:023][379]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.39.09:341][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2021.02.02-13.39.09:364][ 39]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap1534ADCD4F09279E6B0D0D9788D3F6E5.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.39.10:039][ 39]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltData0EE0BD6247F3D9B63EEA2190D7F0F1C3.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.39.10:113][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.39.10:113][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.39.10:113][ 39]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.39.31:061][310]BlueprintLog: New page: Compile RocketPickup
+[2021.02.02-13.39.31:221][310]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.02.02-13.39.31:969][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.39.31:987][316]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickup64D33D6645C0B52857266793EBDF3682.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.39.32:010][316]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.39.32:010][316]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.39.34:954][362]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2021.02.02-13.39.38:833][362]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.02-13.39.40:273][387]LogEditorViewport: Clicking on Actor (LMB): RocketPickup_C (RocketPickup)
+[2021.02.02-13.39.41:863][422]Cmd: DELETE
+[2021.02.02-13.39.41:863][422]Cmd: ACTOR DELETE
+[2021.02.02-13.39.41:898][422]LogEditorActor: Deleted Actor: RocketPickup_C
+[2021.02.02-13.39.41:978][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.02.02-13.39.41:980][422]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2021.02.02-13.39.46:000][510]Cmd: TRANSACTION UNDO
+[2021.02.02-13.39.46:001][510]LogEditorTransaction: Undo Create Actors
+[2021.02.02-13.39.49:524][571]BlueprintLog: New page: Compile RocketPickup
+[2021.02.02-13.39.49:663][571]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2021.02.02-13.39.50:247][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.39.50:266][576]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickup5296EF404B4446812EDE30AE136196B4.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.39.50:287][576]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.39.50:287][576]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.40.11:928][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2021.02.02-13.40.11:951][ 62]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMapCC9528C94CB9F16742A014A81B0843F7.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.40.12:622][ 62]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltData387B8627414620BF35E20AA56AFEA5F8.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.40.12:679][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.40.12:679][ 62]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.40.12:679][ 62]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.40.43:391][686]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.HealthPickup_C' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C:ReceiveBeginPlay' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C:ReceiveTick' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C:BndEvt__Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:125][816]LogMetaData: Removing '/Game/Pickups/HealthPickup.SKEL_HealthPickup_C:UserConstructionScript' ref from Metadata '/Game/Pickups/RocketPickup_2.PackageMetaData'
+[2021.02.02-13.40.54:227][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/HealthPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/HealthPickup.uasset" SILENT=true
+[2021.02.02-13.40.54:244][816]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/HealthPickup3308D85F474206CE516465AF55EB1880.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/HealthPickup.uasset'
+[2021.02.02-13.40.54:418][816]LogUObjectHash: Compacting FUObjectHashTables data took   9.84ms
+[2021.02.02-13.40.54:505][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.02.02-13.40.54:570][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.02-13.40.54:632][816]AssetCheck: New page: Asset Save: HealthPickup
+[2021.02.02-13.40.54:633][816]LogContentValidation: Display: Validating Blueprint /Game/Pickups/HealthPickup.HealthPickup
+[2021.02.02-13.42.57:662][159]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.02-13.43.00:209][159]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.SKEL_ScoreW_C' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW_C' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:030][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:GetText_1.K2Node_FunctionResult_0' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.ScoreW:GetText_1.K2Node_FunctionEntry_0' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.SKEL_ScoreW_C:PreConstruct' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.SKEL_ScoreW_C:Construct' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:031][806]LogMetaData: Removing '/Game/HUD/ScoreW.SKEL_ScoreW_C:Tick' ref from Metadata '/Game/HUD/Score.PackageMetaData'
+[2021.02.02-13.43.21:128][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/ScoreW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/ScoreW.uasset" SILENT=true
+[2021.02.02-13.43.21:147][806]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/ScoreW1EFE175841EF2B81D41987A794B94382.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/ScoreW.uasset'
+[2021.02.02-13.43.21:322][806]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2021.02.02-13.43.21:402][806]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.02.02-13.43.21:463][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.02.02-13.43.21:552][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2021.02.02-13.43.21:636][806]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerCharacterD1757B48450ED773066EE4B7C50BF4FB.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.02.02-13.43.21:725][806]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.43.21:725][806]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.02.02-13.43.21:725][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/ScoreW.ScoreW
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.DeathW_C' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.DeathW:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.DeathW:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.DeathW:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.SKEL_DeathW_C' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.SKEL_DeathW_C:PreConstruct' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.SKEL_DeathW_C:Construct' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.SKEL_DeathW_C:Tick' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:677][933]LogMetaData: Removing '/Game/HUD/DeathW.SKEL_DeathW_C:BndEvt__Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/HUD/DeathWidget.PackageMetaData'
+[2021.02.02-13.43.26:726][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/DeathW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/DeathW.uasset" SILENT=true
+[2021.02.02-13.43.26:737][933]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/DeathW3C7A0C79427A0F36C9CCD3AC5638F9E2.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/DeathW.uasset'
+[2021.02.02-13.43.26:923][933]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2021.02.02-13.43.27:000][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.02.02-13.43.27:060][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.02.02-13.43.27:150][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2021.02.02-13.43.27:235][933]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerCharacter0DB76FE043612D0F11B54C8B81AC0E67.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.02.02-13.43.27:314][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.43.27:314][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/DeathW.DeathW
+[2021.02.02-13.43.27:314][933]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.02.02-13.43.28:639][962]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/RocketHealthW.RocketHealthW
+[2021.02.02-13.43.32:118][  3]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.02.02-13.43.32:345][  3]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2021.02.02-13.43.33:153][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2021.02.02-13.43.33:237][ 11]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerCharacter3DE5D23F41DDFD530C3AA18C23B9B193.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.02.02-13.43.33:264][ 11]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.02.02-13.43.33:264][ 11]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.02.02-13.43.39:720][109]BlueprintLog: New page: Compile RocketPickup
+[2021.02.02-13.43.39:890][109]LogUObjectHash: Compacting FUObjectHashTables data took  10.03ms
+[2021.02.02-13.43.40:356][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.43.40:375][113]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickupE3F47D6D4C772300EE97778C01788A48.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.43.40:399][113]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.43.40:399][113]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.45.48:969][326]BlueprintLog: New page: Compile RocketHealthW
+[2021.02.02-13.45.49:095][326]LogUObjectHash: Compacting FUObjectHashTables data took  12.32ms
+[2021.02.02-13.45.49:842][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/RocketHealthW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset" SILENT=true
+[2021.02.02-13.45.49:857][334]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketHealthW22FFDCD14C3004308CD90D9F40C13471.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset'
+[2021.02.02-13.45.49:885][334]AssetCheck: New page: Asset Save: RocketHealthW
+[2021.02.02-13.45.49:885][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/RocketHealthW.RocketHealthW
+[2021.02.02-13.47.13:263][229]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.14:421][250]LogEditorTransaction: Undo Add Node
+[2021.02.02-13.47.19:442][341]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.20:595][365]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.20:808][368]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.21:018][371]LogEditorTransaction: Undo Add Node
+[2021.02.02-13.47.21:151][373]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.21:551][379]LogEditorTransaction: Undo Add Node
+[2021.02.02-13.47.21:820][383]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.47.22:156][388]LogEditorTransaction: Undo Add Node
+[2021.02.02-13.47.22:837][398]LogEditorTransaction: Undo Delete current selection
+[2021.02.02-13.47.58:781][ 44]BlueprintLog: New page: Compile RocketHealthW
+[2021.02.02-13.47.58:940][ 44]LogUObjectHash: Compacting FUObjectHashTables data took  10.05ms
+[2021.02.02-13.47.59:598][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/RocketHealthW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset" SILENT=true
+[2021.02.02-13.47.59:617][ 53]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketHealthW48BE5AD6442A9121D934EBB97723F5F8.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset'
+[2021.02.02-13.47.59:642][ 53]AssetCheck: New page: Asset Save: RocketHealthW
+[2021.02.02-13.47.59:642][ 53]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/RocketHealthW.RocketHealthW
+[2021.02.02-13.49.01:516][161]BlueprintLog: New page: Compile RocketHealthW
+[2021.02.02-13.49.01:676][161]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2021.02.02-13.49.02:291][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/RocketHealthW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset" SILENT=true
+[2021.02.02-13.49.02:314][171]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketHealthW1BFE37F14039E077E4BE3A9625AB7897.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset'
+[2021.02.02-13.49.02:337][171]AssetCheck: New page: Asset Save: RocketHealthW
+[2021.02.02-13.49.02:337][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/RocketHealthW.RocketHealthW
+[2021.02.02-13.49.42:123][869]LogEditorTransaction: Undo Move Node
+[2021.02.02-13.49.43:164][887]LogEditorTransaction: Undo Add Node
+[2021.02.02-13.50.08:556][374]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.02-13.50.50:309][125]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.02.02-13.50.50:536][125]LogUObjectHash: Compacting FUObjectHashTables data took  10.27ms
+[2021.02.02-13.50.51:808][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/SideScrollerCharacter" FILE="../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" SILENT=true
+[2021.02.02-13.50.51:895][139]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerCharacter13D359EC4489E13530D0FDA72CF3861C.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.02.02-13.50.51:918][139]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.02.02-13.50.51:918][139]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.02.02-13.50.54:776][192]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.50.54:792][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.50.54:792][192]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:50:54)
+[2021.02.02-13.50.54:793][192]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.50.54:814][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021715s)
+[2021.02.02-13.50.54:816][192]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.50.54:817][192]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2021.02.02-13.50.54:817][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024064s)
+[2021.02.02-13.50.54:901][192]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2021.02.02-13.50.54:904][192]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.50.54:904][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.50.54:904][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.50.54:905][192]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.50.54:905][192]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.50.54:909][192]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.50.54:909][192]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.50.54:932][192]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.50.54:933][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.50.54:933][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.50.54:933][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.50.54:934][192]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.50.54:934][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.50.54:935][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.50.54:959][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.50.54:959][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.50.54:959][192]LogInit: FAudioDevice initialized.
+[2021.02.02-13.50.54:959][192]LogAudio: Display: Audio Device (ID: 28) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.50.54:980][192]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.50.54:983][192]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.50.54
+[2021.02.02-13.50.54:983][192]LogWorld: Bringing up level for play took: 0.002088
+[2021.02.02-13.50.54:983][192]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.02.02-13.50.54:989][192]PIE: Server logged in
+[2021.02.02-13.50.54:990][192]PIE: Play in editor total start time 0,199 seconds.
+[2021.02.02-13.51.07:305][383]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2021.02.02-13.51.07:326][383]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMapB8F2257E42FF7AF9006887B4E07A5724.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.51.08:004][383]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltData8464A1864A671D08E681FCB22C7A2B81.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.51.08:018][383]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.51.08:018][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.51.08:018][383]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.51.09:686][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.51.09:687][410]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.51.09:687][410]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.51.09:687][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.51.09:710][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.51.09:730][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.51.09:803][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.51.09:803][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.51.09:805][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.51.09:828][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.51.09:837][410]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2021.02.02-13.51.09:884][411]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.02.02-13.51.10:645][426]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2021.02.02-13.51.10:704][426]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap09F4E566425C13689D2BC993837B046F.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.51.11:376][426]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltDataA96559F2417E522B7720CEA6887DD651.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.51.11:447][426]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.51.11:447][426]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.51.11:447][426]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.56.24:140][836]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.56.24:152][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.56.24:152][836]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:56:24)
+[2021.02.02-13.56.24:153][836]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.56.24:174][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021600s)
+[2021.02.02-13.56.24:176][836]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.56.24:177][836]LogPlayLevel: PIE: World Init took: (0.002290s)
+[2021.02.02-13.56.24:177][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024239s)
+[2021.02.02-13.56.24:268][836]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2021.02.02-13.56.24:273][836]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.56.24:273][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.56.24:273][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.56.24:274][836]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.56.24:274][836]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.56.24:277][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.56.24:277][836]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.56.24:295][836]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.56.24:296][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.56.24:296][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.56.24:296][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.56.24:297][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.56.24:297][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.56.24:297][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.56.24:318][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.56.24:318][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.56.24:318][836]LogInit: FAudioDevice initialized.
+[2021.02.02-13.56.24:318][836]LogAudio: Display: Audio Device (ID: 29) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.56.24:334][836]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.56.24:336][836]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.56.24
+[2021.02.02-13.56.24:337][836]LogWorld: Bringing up level for play took: 0.002057
+[2021.02.02-13.56.24:337][836]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.02.02-13.56.24:342][836]PIE: Server logged in
+[2021.02.02-13.56.24:344][836]PIE: Play in editor total start time 0,193 seconds.
+[2021.02.02-13.56.28:038][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.56.28:038][896]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.56.28:039][896]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.56.28:039][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.56.28:063][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.56.28:083][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.56.28:148][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.56.28:149][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.56.28:150][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.56.28:181][896]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.02.02-13.56.28:225][897]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.02.02-13.56.51:348][256]BlueprintLog: New page: Compile RocketHealthW
+[2021.02.02-13.56.51:505][256]LogUObjectHash: Compacting FUObjectHashTables data took   9.56ms
+[2021.02.02-13.56.52:400][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/RocketHealthW" FILE="../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset" SILENT=true
+[2021.02.02-13.56.52:424][268]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketHealthW7EED579C447BCC50AFD426B6250C47D8.tmp' to '../../../../../../_UE/rocket/rocket/Content/HUD/RocketHealthW.uasset'
+[2021.02.02-13.56.52:446][268]AssetCheck: New page: Asset Save: RocketHealthW
+[2021.02.02-13.56.52:446][268]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/RocketHealthW.RocketHealthW
+[2021.02.02-13.56.57:027][352]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2021.02.02-13.56.57:048][352]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap9CF0B3924A88ABE36F1A59BE8E3AA0E4.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.56.57:724][352]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltDataA3E970C7427DD59210C974AAA127846D.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.56.57:781][352]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.56.57:781][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.56.57:781][352]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.56.58:282][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.56.58:297][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.56.58:297][366]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:56:58)
+[2021.02.02-13.56.58:298][366]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.56.58:319][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020855s)
+[2021.02.02-13.56.58:321][366]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.56.58:321][366]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2021.02.02-13.56.58:321][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023077s)
+[2021.02.02-13.56.58:399][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.02.02-13.56.58:402][366]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.56.58:402][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.56.58:402][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.56.58:403][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.56.58:403][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.56.58:405][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.56.58:406][366]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.56.58:423][366]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.56.58:423][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.56.58:423][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.56.58:423][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.56.58:424][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.56.58:424][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.56.58:424][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.56.58:445][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.56.58:445][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.56.58:445][366]LogInit: FAudioDevice initialized.
+[2021.02.02-13.56.58:445][366]LogAudio: Display: Audio Device (ID: 30) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.56.58:460][366]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.56.58:462][366]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.56.58
+[2021.02.02-13.56.58:462][366]LogWorld: Bringing up level for play took: 0.001893
+[2021.02.02-13.56.58:463][366]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.02.02-13.56.58:468][366]PIE: Server logged in
+[2021.02.02-13.56.58:469][366]PIE: Play in editor total start time 0,173 seconds.
+[2021.02.02-13.57.03:378][448]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.57.03:378][448]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.57.03:378][448]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.03:379][448]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.57.03:380][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.03:463][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.57.03:472][448]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2021.02.02-13.57.03:474][448]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.03:494][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019812s)
+[2021.02.02-13.57.03:496][448]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.57.03:496][448]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2021.02.02-13.57.03:496][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021889s)
+[2021.02.02-13.57.03:496][448]LogAudio: Display: Audio Device (ID: 30) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.57.03:496][448]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.57.03:502][448]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.57.03
+[2021.02.02-13.57.03:502][448]LogWorld: Bringing up level for play took: 0.005003
+[2021.02.02-13.57.03:505][448]LogLoad: Took 0.127043 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.02.02-13.57.07:063][507]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.57.07:064][507]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.57.07:064][507]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.07:064][507]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.57.07:065][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.07:168][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.57.07:176][507]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2021.02.02-13.57.07:180][507]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.07:199][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018284s)
+[2021.02.02-13.57.07:200][507]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.57.07:200][507]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2021.02.02-13.57.07:201][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020418s)
+[2021.02.02-13.57.07:201][507]LogAudio: Display: Audio Device (ID: 30) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.57.07:201][507]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.57.07:205][507]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.57.07
+[2021.02.02-13.57.07:206][507]LogWorld: Bringing up level for play took: 0.004161
+[2021.02.02-13.57.07:210][507]LogLoad: Took 0.146057 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.02.02-13.57.10:045][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.10:045][553]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.10:045][553]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.57.10:045][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.10:067][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.57.10:087][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.10:161][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.10:161][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.10:163][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.10:193][553]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.02.02-13.57.10:240][554]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.02.02-13.57.24:316][720]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.57.24:328][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.57.24:328][720]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:57:24)
+[2021.02.02-13.57.24:329][720]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.24:351][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022150s)
+[2021.02.02-13.57.24:353][720]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.57.24:353][720]LogPlayLevel: PIE: World Init took: (0.002298s)
+[2021.02.02-13.57.24:353][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024724s)
+[2021.02.02-13.57.24:432][720]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2021.02.02-13.57.24:436][720]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.57.24:436][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.57.24:436][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.57.24:436][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.57.24:437][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.57.24:439][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.57.24:439][720]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.57.24:455][720]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.57.24:456][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.57.24:456][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.57.24:456][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.57.24:457][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.57.24:457][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.57.24:457][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.57.24:478][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.57.24:478][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.57.24:478][720]LogInit: FAudioDevice initialized.
+[2021.02.02-13.57.24:478][720]LogAudio: Display: Audio Device (ID: 31) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.57.24:491][720]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.57.24:493][720]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.57.24
+[2021.02.02-13.57.24:493][720]LogWorld: Bringing up level for play took: 0.001750
+[2021.02.02-13.57.24:494][720]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.02.02-13.57.24:499][720]PIE: Server logged in
+[2021.02.02-13.57.24:500][720]PIE: Play in editor total start time 0,173 seconds.
+[2021.02.02-13.57.25:103][729]LogBlueprintUserMessages: [SideScrollerCharacter_78] 1
+[2021.02.02-13.57.25:161][730]LogBlueprintUserMessages: [SideScrollerCharacter_78] 2
+[2021.02.02-13.57.25:217][731]LogBlueprintUserMessages: [SideScrollerCharacter_78] 3
+[2021.02.02-13.57.25:275][732]LogBlueprintUserMessages: [SideScrollerCharacter_78] 4
+[2021.02.02-13.57.25:335][733]LogBlueprintUserMessages: [SideScrollerCharacter_78] 5
+[2021.02.02-13.57.25:395][734]LogBlueprintUserMessages: [SideScrollerCharacter_78] 6
+[2021.02.02-13.57.25:454][735]LogBlueprintUserMessages: [SideScrollerCharacter_78] 7
+[2021.02.02-13.57.25:513][736]LogBlueprintUserMessages: [SideScrollerCharacter_78] 8
+[2021.02.02-13.57.25:572][737]LogBlueprintUserMessages: [SideScrollerCharacter_78] 9
+[2021.02.02-13.57.25:631][738]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10
+[2021.02.02-13.57.25:695][739]LogBlueprintUserMessages: [SideScrollerCharacter_78] 11
+[2021.02.02-13.57.25:749][740]LogBlueprintUserMessages: [SideScrollerCharacter_78] 12
+[2021.02.02-13.57.25:809][741]LogBlueprintUserMessages: [SideScrollerCharacter_78] 13
+[2021.02.02-13.57.25:868][742]LogBlueprintUserMessages: [SideScrollerCharacter_78] 14
+[2021.02.02-13.57.25:928][743]LogBlueprintUserMessages: [SideScrollerCharacter_78] 15
+[2021.02.02-13.57.25:989][744]LogBlueprintUserMessages: [SideScrollerCharacter_78] 16
+[2021.02.02-13.57.26:048][745]LogBlueprintUserMessages: [SideScrollerCharacter_78] 17
+[2021.02.02-13.57.26:108][746]LogBlueprintUserMessages: [SideScrollerCharacter_78] 18
+[2021.02.02-13.57.32:291][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.32:291][849]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.32:292][849]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.57.32:292][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.32:333][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.57.32:354][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.32:421][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.32:422][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.32:423][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.32:452][849]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.02.02-13.57.32:530][850]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.02.02-13.57.33:376][866]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.57.33:385][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.57.33:385][866]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:57:33)
+[2021.02.02-13.57.33:385][866]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.33:410][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024977s)
+[2021.02.02-13.57.33:412][866]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.57.33:413][866]LogPlayLevel: PIE: World Init took: (0.002215s)
+[2021.02.02-13.57.33:413][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.027527s)
+[2021.02.02-13.57.33:495][866]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.02.02-13.57.33:498][866]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.57.33:498][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.57.33:498][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.57.33:499][866]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.57.33:499][866]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.57.33:501][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.57.33:501][866]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.57.33:517][866]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.57.33:518][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.57.33:518][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.57.33:518][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.57.33:518][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.57.33:519][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.57.33:519][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.57.33:539][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.57.33:539][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.57.33:539][866]LogInit: FAudioDevice initialized.
+[2021.02.02-13.57.33:539][866]LogAudio: Display: Audio Device (ID: 32) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.57.33:553][866]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.57.33:555][866]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.57.33
+[2021.02.02-13.57.33:555][866]LogWorld: Bringing up level for play took: 0.001875
+[2021.02.02-13.57.33:556][866]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.02.02-13.57.33:560][866]PIE: Server logged in
+[2021.02.02-13.57.33:561][866]PIE: Play in editor total start time 0,178 seconds.
+[2021.02.02-13.57.41:343][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.41:343][993]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.57.41:344][993]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.57.41:344][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.41:363][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.57.41:383][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.57.41:455][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.57.41:456][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.41:457][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.57.41:492][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.02.02-13.57.41:537][994]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.02.02-13.58.44:280][ 15]BlueprintLog: New page: Compile RocketPickup
+[2021.02.02-13.58.44:446][ 15]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2021.02.02-13.58.45:151][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickups/RocketPickup" FILE="../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset" SILENT=true
+[2021.02.02-13.58.45:170][ 25]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/RocketPickupCBAFA7F548226FCFFA7C6A8563E0F758.tmp' to '../../../../../../_UE/rocket/rocket/Content/Pickups/RocketPickup.uasset'
+[2021.02.02-13.58.45:191][ 25]AssetCheck: New page: Asset Save: RocketPickup
+[2021.02.02-13.58.45:191][ 25]LogContentValidation: Display: Validating Blueprint /Game/Pickups/RocketPickup.RocketPickup
+[2021.02.02-13.58.47:464][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.02-13.58.47:473][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.02-13.58.47:474][ 71]PIE: New page: PIE session: SideScrollerExampleMap (2 февр. 2021 г., 19:58:47)
+[2021.02.02-13.58.47:475][ 71]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.47:497][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021983s)
+[2021.02.02-13.58.47:498][ 71]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.58.47:499][ 71]LogPlayLevel: PIE: World Init took: (0.001923s)
+[2021.02.02-13.58.47:499][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024198s)
+[2021.02.02-13.58.47:578][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2021.02.02-13.58.47:581][ 71]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-13.58.47:581][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-13.58.47:581][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-13.58.47:581][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-13.58.47:582][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-13.58.47:584][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-13.58.47:584][ 71]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-13.58.47:601][ 71]LogAudioMixer: Display: Using Audio Device Динамики (2- Устройство с поддержкой High Definition Audio)
+[2021.02.02-13.58.47:602][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-13.58.47:602][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-13.58.47:602][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-13.58.47:603][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-13.58.47:603][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-13.58.47:603][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-13.58.47:623][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-13.58.47:623][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-13.58.47:623][ 71]LogInit: FAudioDevice initialized.
+[2021.02.02-13.58.47:623][ 71]LogAudio: Display: Audio Device (ID: 33) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.58.47:634][ 71]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.58.47:637][ 71]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.58.47
+[2021.02.02-13.58.47:638][ 71]LogWorld: Bringing up level for play took: 0.002480
+[2021.02.02-13.58.47:638][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.02.02-13.58.47:643][ 71]PIE: Server logged in
+[2021.02.02-13.58.47:644][ 71]PIE: Play in editor total start time 0,172 seconds.
+[2021.02.02-13.58.52:951][156]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.58.52:951][156]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.58.52:951][156]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.52:952][156]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.58.52:953][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.58.53:058][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.58.53:066][156]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.02.02-13.58.53:068][156]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.53:087][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018842s)
+[2021.02.02-13.58.53:088][156]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.58.53:089][156]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2021.02.02-13.58.53:089][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020836s)
+[2021.02.02-13.58.53:089][156]LogAudio: Display: Audio Device (ID: 33) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.58.53:089][156]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.58.53:094][156]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.58.53
+[2021.02.02-13.58.53:094][156]LogWorld: Bringing up level for play took: 0.004829
+[2021.02.02-13.58.53:098][156]LogLoad: Took 0.147057 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.02.02-13.58.56:479][212]LogNet: Browse: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.58.56:479][212]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/SideScrollerExampleMap
+[2021.02.02-13.58.56:479][212]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.56:480][212]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.58.56:480][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.58.56:587][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.58.56:596][212]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.02.02-13.58.56:600][212]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.56:617][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016888s)
+[2021.02.02-13.58.56:618][212]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.02.02-13.58.56:619][212]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2021.02.02-13.58.56:619][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018909s)
+[2021.02.02-13.58.56:619][212]LogAudio: Display: Audio Device (ID: 33) registered with world 'SideScrollerExampleMap'.
+[2021.02.02-13.58.56:619][212]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.02.02-13.58.56:624][212]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2021.02.02-16.58.56
+[2021.02.02-13.58.56:624][212]LogWorld: Bringing up level for play took: 0.004426
+[2021.02.02-13.58.56:627][212]LogLoad: Took 0.148211 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap)
+[2021.02.02-13.58.58:844][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.58.58:844][250]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.02.02-13.58.58:844][250]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-13.58.58:844][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.58.58:866][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.02-13.58.58:885][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-13.58.58:955][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.02-13.58.58:956][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.58.58:957][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.02-13.58.58:979][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-13.58.58:987][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.02.02-13.58.59:034][251]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.02.02-13.59.00:907][288]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2021.02.02-13.59.00:929][288]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap0FFDEEE3421A153D60A51E91DBDFED74.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-13.59.01:613][288]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltData2ED7C303429B8E7F6612BCAC175BC0CE.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-13.59.01:686][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-13.59.01:686][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-13.59.01:687][288]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-13.59.38:306][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
