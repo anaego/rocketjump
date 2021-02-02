@@ -4704,3 +4704,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.02-14.41.51:670][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.02.02-14.41.51:680][902]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
 [2021.02.02-14.41.51:741][903]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.02.02-14.42.44:498][111]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2021.02.02-14.42.44:528][111]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMapF21A077F48E7A77BD4C98EA48015F1FA.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.02.02-14.42.45:224][111]LogSavePackage: Moving '../../../../../../_UE/rocket/rocket/Saved/SideScrollerExampleMap_BuiltData4B143D3B46075674D39203BE8E99D082.tmp' to '../../../../../../_UE/rocket/rocket/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.02.02-14.42.45:288][111]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.02-14.42.45:288][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.02.02-14.42.45:288][111]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.02.02-14.42.47:939][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
